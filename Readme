@@ -1,3 +1,4 @@
 
 # RUN Using Colaboratory if you do not have access to GPU units
 # Start with Understanding code,(🙃 not to mention) you can always use GPT as your assistant 
+# Tweak Hyper-parameters (number of training_examples, dropout_rate, embeding_dimensions etc.) and improve model performance further
